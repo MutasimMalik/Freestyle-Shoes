@@ -1,0 +1,50 @@
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE3\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.deps.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE3\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE3\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.dev.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE3\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.dll
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE3\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.pdb
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE3\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csprojResolveAssemblyReference.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE3\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csproj.CoreCompileInputs.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE3\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfoInputs.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE3\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfo.cs
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE3\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.dll
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE3\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.pdb
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.deps.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.dev.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.dll
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.pdb
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csprojResolveAssemblyReference.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csproj.CoreCompileInputs.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfoInputs.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfo.cs
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.dll
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.pdb
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.deps.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.dev.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.dll
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.pdb
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csprojResolveAssemblyReference.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csproj.CoreCompileInputs.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfoInputs.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfo.cs
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.dll
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.pdb
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\appsettings.json
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\bower.json
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.deps.json
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.json
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.runtimeconfig.dev.json
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.dll
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\bin\Debug\netcoreapp2.0\WebMvc.pdb
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csprojAssemblyReference.cache
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.csproj.CoreCompileInputs.cache
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfoInputs.cache
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.AssemblyInfo.cs
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.dll
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.pdb
+C:\D Drive Backup (Malik Apsis)\microProject\original\ShoesOnContainersE4.1\src\Web\WebMvc\obj\Debug\netcoreapp2.0\WebMvc.genruntimeconfig.cache

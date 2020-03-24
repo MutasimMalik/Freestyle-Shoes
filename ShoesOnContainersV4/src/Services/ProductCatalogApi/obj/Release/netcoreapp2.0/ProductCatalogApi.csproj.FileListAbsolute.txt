@@ -1,0 +1,10 @@
+C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi\bin\Release\netcoreapp2.0\ProductCatalogApi.deps.json
+C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi\bin\Release\netcoreapp2.0\ProductCatalogApi.runtimeconfig.json
+C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi\bin\Release\netcoreapp2.0\ProductCatalogApi.runtimeconfig.dev.json
+C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi\bin\Release\netcoreapp2.0\ProductCatalogApi.dll
+C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi\bin\Release\netcoreapp2.0\ProductCatalogApi.pdb
+C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi\obj\Release\netcoreapp2.0\ProductCatalogApi.csproj.CoreCompileInputs.cache
+C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi\obj\Release\netcoreapp2.0\ProductCatalogApi.AssemblyInfoInputs.cache
+C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi\obj\Release\netcoreapp2.0\ProductCatalogApi.AssemblyInfo.cs
+C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi\obj\Release\netcoreapp2.0\ProductCatalogApi.dll
+C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi\obj\Release\netcoreapp2.0\ProductCatalogApi.pdb

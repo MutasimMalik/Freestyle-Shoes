@@ -1,0 +1,5 @@
+C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ProductCatalogApi
+--content-root=C:\aspnetmicroservices\ShoesOnContainers-1\src\Services\ProductCatalogApi
+--file=

@@ -1,0 +1,12 @@
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\bin\Debug\netcoreapp2.0\TokenServiceApi.deps.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\bin\Debug\netcoreapp2.0\TokenServiceApi.runtimeconfig.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\bin\Debug\netcoreapp2.0\TokenServiceApi.runtimeconfig.dev.json
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\bin\Debug\netcoreapp2.0\TokenServiceApi.dll
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\bin\Debug\netcoreapp2.0\TokenServiceApi.pdb
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\obj\Debug\netcoreapp2.0\TokenServiceApi.csprojResolveAssemblyReference.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\obj\Debug\netcoreapp2.0\TokenServiceApi.csproj.CoreCompileInputs.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\obj\Debug\netcoreapp2.0\TokenServiceApi.AssemblyInfoInputs.cache
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\obj\Debug\netcoreapp2.0\TokenServiceApi.AssemblyInfo.cs
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\obj\Debug\netcoreapp2.0\TokenServiceApi.dll
+C:\ASPNETCOREMICROSERVICES\ShoesOnContainersE4.1\src\Services\TokenServiceApi\obj\Debug\netcoreapp2.0\TokenServiceApi.pdb
